@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Components\EgoldsFormStyle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Components\RoundingButtonsComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\EgoldsCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\EgoldsGoogleTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\EgoldsProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\EgoldsRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\EgoldsToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\ShadowedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\Controls\yt_Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="yt_DesignUI\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

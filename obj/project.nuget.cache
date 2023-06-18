@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/HcG3cv93fR7/t5kPWyPxb93MnEFjxRFT5Z3UCQFUxxSYD9ePmY+9/K1z1mb/0jRIJ5+SpBRoNysQRYR8nMaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\MegaKnightChess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unsop\\.nuget\\packages\\mstest.testframework\\3.0.3\\mstest.testframework.3.0.3.nupkg.sha512",
+    "C:\\Users\\unsop\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

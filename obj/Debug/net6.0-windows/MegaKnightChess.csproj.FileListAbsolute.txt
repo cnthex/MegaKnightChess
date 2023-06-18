@@ -1,0 +1,122 @@
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.AssemblyReference.cache
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.GenerateResource.cache
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.GeneratedMSBuildEditorConfig.editorconfig
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfoInputs.cache
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfo.cs
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CoreCompileInputs.cache
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.exe
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.deps.json
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.runtimeconfig.json
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\refint\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.genruntimeconfig.cache
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\ref\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.ChessForm.resources
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.api.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.core.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CopyComplete
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.api.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.core.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.exe
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.deps.json
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.runtimeconfig.json
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.AssemblyReference.cache
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.ChessForm.resources
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.GenerateResource.cache
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.GeneratedMSBuildEditorConfig.editorconfig
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfoInputs.cache
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfo.cs
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CoreCompileInputs.cache
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CopyComplete
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\refint\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.pdb
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.genruntimeconfig.cache
+E:\с#\.finalgame\Realization\MegaKnightChess-master\MegaKnightChess\obj\Debug\net6.0-windows\ref\MegaKnightChess.dll
+E:\с#\.finalgame\Realization\MegaKnightChess\MegaKnightChess\obj\Debug\net6.0-windows\yt_DesignUI.frmMain.resources
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.api.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\nunit.engine.core.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.exe
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.deps.json
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.runtimeconfig.json
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\MegaKnightChess.pdb
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.AssemblyReference.cache
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.ChessForm.resources
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\yt_DesignUI.frmMain.resources
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.GenerateResource.cache
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfoInputs.cache
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.AssemblyInfo.cs
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CoreCompileInputs.cache
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.csproj.CopyComplete
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\refint\MegaKnightChess.dll
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.pdb
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\MegaKnightChess.genruntimeconfig.cache
+C:\Users\unsop\Desktop\Маклаков Александр Александрович\source code\MegaKnightChess\obj\Debug\net6.0-windows\ref\MegaKnightChess.dll
