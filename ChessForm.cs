@@ -14,6 +14,7 @@ using System.Drawing.Drawing2D;
 using Label = System.Windows.Forms.Label;
 using System.Diagnostics;
 using System.IO;
+using System.Drawing.Text;
 
 namespace MegaKnightChess
 {
@@ -50,7 +51,6 @@ namespace MegaKnightChess
         public yt_Button Start = new()
         {
             Text = "Start" + "\n" + "(choose mode)",
-            Font = new Font("Azonix", 50),
             BackColor = Color.FromArgb(200, 3, 20, 50),
             BackColorAdditional = Color.Black,
             RoundingEnable = true,
@@ -62,7 +62,7 @@ namespace MegaKnightChess
         public yt_Button StartDefaultGame = new()
         {
             Text = "Режим: обычный",
-            Font = new Font("American Captain Cyrillic", 35),
+            //Font = new Font(fonts[0], 35),
             BackColor = Color.FromArgb(200, 3, 25, 50),
             BackColorAdditional = Color.Black,
             RoundingEnable = true,
@@ -74,7 +74,6 @@ namespace MegaKnightChess
         public yt_Button StartKnightMadnessGame = new()
         {
             Text = "Режим: megaknight madness",
-            Font = new Font("American Captain Cyrillic", 35),
             BackColor = Color.FromArgb(200, 3, 15, 50),
             BackColorAdditional = Color.Black,
             RoundingEnable = true,
@@ -86,7 +85,6 @@ namespace MegaKnightChess
         public yt_Button StartKnightInfectionGame = new()
         {
             Text = "Режим: knight infection",
-            Font = new Font("American Captain Cyrillic", 35),
             BackColor = Color.FromArgb(200, 13, 15, 50),
             BackColorAdditional = Color.Black,
             RoundingEnable = true,
@@ -100,7 +98,6 @@ namespace MegaKnightChess
             Size = new Size(200, 50),
             Location = new Point((BoardSize + 2) * 75, 25),
             Text = "начать заново",
-            Font = new Font("American Captain Cyrillic", 15),
             BackColor = Color.DarkSlateGray,
             BackColorAdditional = Color.Black,
             RoundingEnable = true,
@@ -113,7 +110,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 40),
             Location = new Point(BoardSize * 75 + 25, 200),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "текущий ход: ",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -123,7 +119,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 60),
             Location = new Point(BoardSize * 75 +25, 250),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "Черные ставят " + "\n" + "шах белым",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -133,7 +128,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 60),
             Location = new Point(BoardSize * 75 + 25, 250),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "Белые ставят " + "\n" + "шах черным",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -143,7 +137,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 60),
             Location = new Point(BoardSize * 75 + 25, 250),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "Мат. " + "\n" + "Черные победили",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -153,7 +146,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 60),
             Location = new Point(BoardSize * 75 + 25, 250),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "Мат. " + "\n" + "Белые победили",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -163,7 +155,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 40),
             Location = new Point(BoardSize * 75 + 25, 250),
-            Font = new Font("American Captain Cyrillic", 16),
             Text = "Пат. Ничья",
             BackColor = Color.Transparent,
             ForeColor = Color.White
@@ -173,7 +164,6 @@ namespace MegaKnightChess
         {
             Size = new Size(100, 40),
             Location = new Point(BoardSize * 75 + 25, 25),
-            Font = new Font("American Captain Cyrillic", 11),
             Text = "Ход назад",
             BackColor = Color.DarkViolet,
             BackColorAdditional = Color.Black,
@@ -187,7 +177,6 @@ namespace MegaKnightChess
         {
             Size = new Size(100, 40),
             Location = new Point(BoardSize * 75 + 25, 75),
-            Font = new Font("American Captain Cyrillic", 11),
             Text = "Ход вперед",
             BackColor = Color.DarkTurquoise,
             BackColorAdditional = Color.Black,
@@ -201,7 +190,6 @@ namespace MegaKnightChess
         {
             Size = new Size(200, 50),
             Location = new Point((BoardSize + 2) * 75, 100),
-            Font = new Font("American Captain Cyrillic", 14),
             Text = "Скины на фигуры",
             BackColor = Color.DarkSlateBlue,
             BackColorAdditional = Color.Black,
@@ -233,7 +221,6 @@ namespace MegaKnightChess
         {
             Size = new Size(50, 50),
             Location = new Point(BoardSize * 75 + 375 - 50, BoardSize * 75 - 55),
-            Font = new Font("American Captain Cyrillic", 23),
             Text = "?",
             BackColor = Color.FromArgb(100, 20, 150, 250),
             BackColorAdditional = Color.Black,
@@ -250,6 +237,7 @@ namespace MegaKnightChess
             WindowState = FormWindowState.Maximized;
             StartPosition = FormStartPosition.CenterScreen;
             InitializeComponent();
+            AddAndSetFonts();
             var screenWidth = Screen.PrimaryScreen.Bounds.Size.Width;
             var screenHeight = Screen.PrimaryScreen.Bounds.Size.Height;
             StartChessBack = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\StartDisplay.jpg"));
@@ -267,6 +255,28 @@ namespace MegaKnightChess
             Start.Location = new Point(screenWidth / 11 * 3, screenHeight / 2);
             Controls.Add(Start);
             Start.Click += new EventHandler(ChooseMode);
+        }
+
+        public void AddAndSetFonts()
+        {
+            var fonts = new PrivateFontCollection();
+            fonts.AddFontFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Fonts\\American Captain.ttf"));
+            fonts.AddFontFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Fonts\\Azonix.otf"));
+            Start.Font = new Font(fonts.Families[1], 50);
+            StartDefaultGame.Font = new Font(fonts.Families[0], 35);
+            StartKnightMadnessGame.Font = new Font(fonts.Families[0], 35);
+            StartKnightInfectionGame.Font = new Font(fonts.Families[0], 35);
+            Restart.Font = new Font(fonts.Families[0], 15);
+            Turn.Font = new Font(fonts.Families[0], 16);
+            BlackCheck.Font = new Font(fonts.Families[0], 16);
+            WhiteCheck.Font = new Font(fonts.Families[0], 16);
+            BlackMate.Font = new Font(fonts.Families[0], 16);
+            WhiteMate.Font = new Font(fonts.Families[0], 16);
+            Draw.Font = new Font(fonts.Families[0], 16);
+            BackTurn.Font = new Font(fonts.Families[0], 11);
+            NextTurn.Font = new Font(fonts.Families[0], 11);
+            Skins.Font = new Font(fonts.Families[0], 14);
+            DocumentationBut.Font = new Font(fonts.Families[0], 23);
         }
 
         public void StartInit()

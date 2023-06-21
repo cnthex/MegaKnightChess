@@ -9,12 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MSTest.TestFramework" Version="3.0.3" />
-    <PackageReference Include="NUnit3TestAdapter" Version="4.4.2" />
+    <Compile Remove="ButtonExtensions\**" />
+    <EmbeddedResource Remove="ButtonExtensions\**" />
+    <None Remove="ButtonExtensions\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ButtonExtensions\" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.0.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.4.2" />
   </ItemGroup>
 
 </Project>
