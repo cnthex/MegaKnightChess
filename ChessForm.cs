@@ -13,6 +13,7 @@ using yt_DesignUI;
 using System.Drawing.Drawing2D;
 using Label = System.Windows.Forms.Label;
 using System.Diagnostics;
+using System.IO;
 
 namespace MegaKnightChess
 {
@@ -251,16 +252,16 @@ namespace MegaKnightChess
             InitializeComponent();
             var screenWidth = Screen.PrimaryScreen.Bounds.Size.Width;
             var screenHeight = Screen.PrimaryScreen.Bounds.Size.Height;
-            StartChessBack = new Bitmap("C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\Sprites\\StartDisplay.jpg");
-            MainChessBack = new Bitmap("C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\Sprites\\MainDisplay.jpg");
+            StartChessBack = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\StartDisplay.jpg"));
+            MainChessBack = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\MainDisplay.jpg"));
             Image background = new Bitmap(screenWidth, screenHeight);
             var backgroundGraphics = Graphics.FromImage(background);
             backgroundGraphics.DrawImage(StartChessBack, new Rectangle(0, 0, screenWidth, screenHeight),
                 0, 0, 1920, 1080, GraphicsUnit.Pixel);
             BackgroundImage = background;
-            ClassicChessSprites = new Bitmap("C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\Sprites\\mychessBig.png");
-            MemesChessSprites = new Bitmap("C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\Sprites\\mychessmemesBig.png");
-            FruitsChessSprites = new Bitmap("C:\\Users\\unsop\\Desktop\\Маклаков Александр Александрович\\source code\\MegaKnightChess\\Sprites\\mychessfruitsBig.png");
+            ClassicChessSprites = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\mychessBig.png"));
+            MemesChessSprites = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\mychessmemesBig.png"));
+            FruitsChessSprites = new Bitmap(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..\\..\\..\\Sprites\\mychessfruitsBig.png"));
             ChessSprites = ClassicChessSprites;
             Start.Size = new Size(screenWidth / 11 * 5, screenHeight / 3);
             Start.Location = new Point(screenWidth / 11 * 3, screenHeight / 2);
